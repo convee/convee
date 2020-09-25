@@ -1,8 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=convee&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### I'm convee
-- 🔭 I’m currently working on php
-- 🌱 I’m currently learning go
+- I’m currently working on ⓅⒽⓅ 
+- I’m currently learning ⓖⓞⓛⓐⓝⓖ
 
 <img src="https://github-profile-trophy.vercel.app/?username=convee&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 <!--
