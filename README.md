@@ -1,9 +1,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=convee&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### I'm convee
-- I’m currently working on golang 
+- 🔭 I’m currently working on golang 
+
+### Thank you for the visit
+
+![](http://profile-counter.glitch.me/convee/count.svg)
+
+Please give a Star if you like.
 
 <img src="https://github-profile-trophy.vercel.app/?username=convee&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
+
 <!--
 **convee/convee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Thank you for the visit.
-
-![](http://profile-counter.glitch.me/convee/count.svg)
-
-Please give a Star if you like.
