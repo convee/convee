@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Go Markdown Blog</title>
+  <desc id="desc">Featured Go blog project</desc>
+  <rect width="720" height="420" rx="28" fill="#f3efe5"/>
+  <rect x="34" y="34" width="652" height="352" rx="20" fill="#fffdf8" stroke="#d8d2c5" stroke-width="2"/>
+  <circle cx="75" cy="74" r="8" fill="#ff7455"/><circle cx="101" cy="74" r="8" fill="#ffb35c"/><circle cx="127" cy="74" r="8" fill="#49b989"/>
+  <rect x="70" y="119" width="98" height="16" rx="8" fill="#163128"/>
+  <rect x="70" y="159" width="382" height="22" rx="11" fill="#163128" opacity=".95"/>
+  <rect x="70" y="197" width="488" height="12" rx="6" fill="#b9c1bc"/>
+  <rect x="70" y="223" width="418" height="12" rx="6" fill="#d3d7d4"/>
+  <rect x="70" y="249" width="455" height="12" rx="6" fill="#d3d7d4"/>
+  <rect x="70" y="303" width="148" height="44" rx="22" fill="#ff7455"/>
+  <text x="144" y="331" text-anchor="middle" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700">READ STORY</text>
+  <text x="650" y="120" text-anchor="end" fill="#2d6a55" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">01</text>
+  <text x="650" y="326" text-anchor="end" fill="#163128" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="760">GOBLOG</text>
+  <text x="650" y="351" text-anchor="end" fill="#77837d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">GO · MYSQL · MARKDOWN</text>
+</svg>

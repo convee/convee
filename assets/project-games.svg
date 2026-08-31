@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Kids Games</title>
+  <desc id="desc">Featured browser games project</desc>
+  <rect width="720" height="420" rx="28" fill="#fff2c7"/>
+  <path d="M0 330c113-48 198-55 285-15 94 44 178 40 263-8 64-36 121-34 172-8v121H0Z" fill="#78d9ae"/>
+  <circle cx="607" cy="88" r="38" fill="#ffb13f"/>
+  <path d="M607 29v-18M607 165v-18M548 88h-18M684 88h-18M566 47l-13-13M661 142l-13-13M648 47l13-13M553 142l13-13" stroke="#ffb13f" stroke-linecap="round" stroke-width="8"/>
+  <path d="M151 294c-24-72 17-139 88-139s112 67 88 139" fill="#ff7455"/>
+  <rect x="137" y="247" width="204" height="104" rx="52" fill="#f7f9f3" stroke="#17352a" stroke-width="8"/>
+  <circle cx="199" cy="299" r="23" fill="#17352a"/>
+  <path d="M199 281v36M181 299h36" stroke="#f7f9f3" stroke-linecap="round" stroke-width="7"/>
+  <circle cx="282" cy="286" r="10" fill="#ff7455"/><circle cx="306" cy="312" r="10" fill="#46a87f"/>
+  <text x="42" y="70" fill="#17352a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">PLAYGROUND / 03</text>
+  <text x="678" y="349" text-anchor="end" fill="#17352a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23" font-weight="760">KIDS GAMES</text>
+  <text x="678" y="376" text-anchor="end" fill="#2d6a55" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">OPEN · PLAY · CREATE</text>
+</svg>
