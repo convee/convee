@@ -16,13 +16,13 @@
 
 <div align="center">
   <a href="https://github.com/convee/goblog">
-    <img src="./assets/project-goblog.svg" width="32%" alt="Go Markdown Blog project card" />
+    <img src="./assets/project-goblog.svg" width="270" alt="Go Markdown Blog project card" />
   </a>
   <a href="https://github.com/convee/daily-content-archive">
-    <img src="./assets/project-archive.svg" width="32%" alt="Daily Content Archive project card" />
+    <img src="./assets/project-archive.svg" width="270" alt="Daily Content Archive project card" />
   </a>
   <a href="https://github.com/convee/kids-games">
-    <img src="./assets/project-games.svg" width="32%" alt="Kids Games project card" />
+    <img src="./assets/project-games.svg" width="270" alt="Kids Games project card" />
   </a>
 </div>
 
