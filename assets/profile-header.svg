@@ -1,32 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Convee profile header</title>
-  <desc id="desc">Go backend builder and AI engineering explorer</desc>
+  <desc id="desc">Agent systems architect and AI researcher</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1713"/>
-      <stop offset="0.58" stop-color="#13271f"/>
-      <stop offset="1" stop-color="#1d342a"/>
+      <stop offset="0" stop-color="#030817"/>
+      <stop offset="0.58" stop-color="#071a35"/>
+      <stop offset="1" stop-color="#082b43"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ff7455"/>
-      <stop offset="1" stop-color="#ffb35c"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3478f6"/>
+      <stop offset="0.72" stop-color="#29d6e8"/>
+      <stop offset="1" stop-color="#c7ff3d"/>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="28"/>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="24"/>
     </filter>
   </defs>
   <rect width="1200" height="420" rx="30" fill="url(#bg)"/>
-  <circle cx="1050" cy="72" r="150" fill="#3cbf8b" opacity=".12" filter="url(#glow)"/>
-  <circle cx="1110" cy="360" r="190" fill="#ff7455" opacity=".12" filter="url(#glow)"/>
-  <path d="M840 84h220c31 0 56 25 56 56v138c0 31-25 56-56 56H840c-31 0-56-25-56-56V140c0-31 25-56 56-56Z" fill="#18352a" stroke="#a7c9ba" stroke-opacity=".42" stroke-width="2"/>
-  <path d="M822 159h256M822 210h184M822 261h220" fill="none" stroke="#dff8eb" stroke-opacity=".35" stroke-linecap="round" stroke-width="12"/>
-  <circle cx="837" cy="122" r="7" fill="#ff7455"/>
-  <circle cx="863" cy="122" r="7" fill="#ffb35c"/>
-  <circle cx="889" cy="122" r="7" fill="#3cbf8b"/>
-  <path d="M1016 235l27 24 49-61" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
-  <text x="74" y="82" fill="#78d9ae" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700" letter-spacing="4">HELLO, I BUILD THINGS</text>
-  <text x="70" y="205" fill="#f3f7f4" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="104" font-weight="760" letter-spacing="-5">CONVEE</text>
-  <rect x="74" y="235" width="118" height="7" rx="3.5" fill="url(#accent)"/>
-  <text x="74" y="304" fill="#c0cec7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="27">Go backend · AI engineering · useful products</text>
-  <text x="74" y="356" fill="#7f9389" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">BUILD → LEARN → SHARE → REPEAT</text>
+  <circle cx="1050" cy="95" r="150" fill="#2478ff" opacity=".12" filter="url(#glow)"/>
+  <circle cx="1095" cy="365" r="170" fill="#27d8e6" opacity=".1" filter="url(#glow)"/>
+  <g transform="translate(928 211)">
+    <circle r="132" fill="none" stroke="#55ddef" stroke-opacity=".18" stroke-width="2"/>
+    <circle r="94" fill="#07162d" stroke="#3c8cff" stroke-opacity=".55" stroke-width="3"/>
+    <path d="M50-55a75 75 0 1 0 0 110" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-width="28"/>
+    <circle cx="74" cy="-108" r="10" fill="#3486ff"/>
+    <circle cx="-119" cy="57" r="8" fill="#29d6e8"/>
+    <circle cx="106" cy="78" r="8" fill="#c7ff3d"/>
+    <path d="M74-108-45-68M-119 57-63 31M106 78 49 55" fill="none" stroke="#9cdae7" stroke-opacity=".55" stroke-width="2"/>
+  </g>
+  <text x="74" y="78" fill="#55ddef" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700" letter-spacing="4">ARCHITECTING INTELLIGENT SYSTEMS</text>
+  <text x="70" y="198" fill="#f5f8ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="104" font-weight="760" letter-spacing="-5">CONVEE</text>
+  <rect x="74" y="228" width="148" height="7" rx="3.5" fill="url(#accent)"/>
+  <text x="74" y="296" fill="#bdcbe0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="27">Agent systems architect · AI researcher</text>
+  <text x="74" y="350" fill="#6f86a6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">ORCHESTRATE → ISOLATE → EVALUATE → EVOLVE</text>
 </svg>
