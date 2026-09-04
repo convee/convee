@@ -15,7 +15,7 @@ I am particularly experienced in:
 - **Evaluation & Observability** — reproducible evals, tracing, failure guards, and quality/cost feedback loops
 - **AI Research** — evidence-first discovery, source tracing, knowledge engineering, and automated research workflows
 
-## Flagship project
+## Flagship projects
 
 <div align="center">
   <a href="https://github.com/hullwork/sandbox">
@@ -30,6 +30,20 @@ A self-hosted execution sandbox for AI agents. Each runtime runs in its own Kube
 The project is concerned not only with *running code*, but with **where an agent runs, what it can access, how it recovers from failure, and how the system preserves its security boundaries**.
 
 `Kubernetes` `gVisor` `Python` `MCP` `Multi-tenant` `Fail-closed`
+
+<div align="center">
+  <a href="https://github.com/hullwork/site">
+    <img src="./assets/project-site.svg" width="550" alt="hullwork site — verified website delivery for AI agents" />
+  </a>
+</div>
+
+### [hullwork/site](https://github.com/hullwork/site) — Verified website delivery for AI agents
+
+A deployment control plane that lets an AI agent ship a website to Kubernetes through HTTP, CLI, or MCP. It handles tenant admission, quotas, desired state, builds, workloads, ingress, observability, and scale-to-zero activation.
+
+The system treats deployment as a claim that must be proven: once a workload is ready, the control plane makes a real HTTP request and records the response status and body digest. **“Deployed” is a measurement, not an exit code.**
+
+`Kubernetes` `Python` `MCP` `Multi-tenant` `Scale-to-zero` `HTTP verification`
 
 ## Architecture & research
 
@@ -64,6 +78,7 @@ A lightweight Markdown publishing system built with Go, MySQL, and server-render
 
 - 🌐 [convee.cn](https://convee.cn) — AI engineering intelligence and knowledge systems
 - 🧩 [hullwork/sandbox](https://github.com/hullwork/sandbox) — secure execution infrastructure for agents
+- 🚀 [hullwork/site](https://github.com/hullwork/site) — verified website delivery for agents
 - 💻 [GitHub Projects](https://github.com/convee?tab=repositories) — more open-source work
 
 <div align="center">
