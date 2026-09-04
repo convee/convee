@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Convee — Agent systems architect and AI researcher" />
+  <img src="./assets/profile-header-agent.svg" width="100%" alt="Convee — Agent systems architect and AI researcher" />
 </div>
 
 ## Hi, I'm Convee 👋
