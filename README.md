@@ -17,6 +17,8 @@ I am particularly experienced in:
 
 ## Flagship projects
 
+Built and maintained under [**hullwork**](https://github.com/hullwork) — open, self-hosted infrastructure for dependable AI agents.
+
 <div align="center">
   <a href="https://github.com/hullwork/sandbox">
     <img src="./assets/project-sandbox.svg" width="550" alt="hullwork sandbox — secure runtime for AI agents" />
@@ -64,6 +66,9 @@ The system treats deployment as a claim that must be proven: once a workload is 
   <a href="https://github.com/convee/goblog">
     <img src="./assets/project-goblog.svg" width="270" alt="Go Markdown Blog project card" />
   </a>
+  <a href="https://github.com/convee/kids-games">
+    <img src="./assets/project-games.svg" width="270" alt="Kids Games project card" />
+  </a>
 </div>
 
 ### [Daily Content Archive](https://github.com/convee/daily-content-archive)
@@ -74,12 +79,15 @@ An automated research and content archive that continuously collects high-value 
 
 A lightweight Markdown publishing system built with Go, MySQL, and server-rendered templates, including content management, search, and a secure admin surface.
 
+### [Kids Games](https://github.com/convee/kids-games)
+
+Six single-file HTML5 games written for my 7-year-old — zero dependencies, zero build step, portrait-first. A reminder that not every system needs a runtime.
+
 ## Find me
 
 - 🌐 [convee.cn](https://convee.cn) — AI engineering intelligence and knowledge systems
-- 🧩 [hullwork/sandbox](https://github.com/hullwork/sandbox) — secure execution infrastructure for agents
-- 🚀 [hullwork/site](https://github.com/hullwork/site) — verified website delivery for agents
-- 💻 [GitHub Projects](https://github.com/convee?tab=repositories) — more open-source work
+- 🏗️ [hullwork](https://github.com/hullwork) — open infrastructure for dependable AI agents
+- 💻 [GitHub Projects](https://github.com/convee?tab=repositories&type=source) — more open-source work
 
 <div align="center">
   <sub>Architect the system. Ground it in evidence. Ship what works.</sub>
